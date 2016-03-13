@@ -64,10 +64,6 @@ This is a basic HTTP server. It responds to two routes, '/time' and '/greet'.  '
 
 This is a simple Express server with a JSON parsing middleware function. Integration and unit testing is performed on the middleware.
 
-####nodeBeginnerBook
-
-Code in the Node Beginner Book, manually typed.
-
 ##Code 301: Intermediate Software Development
 
 ####code-blog
