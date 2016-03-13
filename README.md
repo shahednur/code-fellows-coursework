@@ -1,6 +1,6 @@
 # Code Fellows Coursework
 
-This repository contains some of my coursework from my time at Code Fellows.  Each file has a .git folder which retains the branches of the original fork or repository.  Projects are not listed in any particular order.
+This repository contains some of my coursework from my time at Code Fellows.  Projects are not listed in any particular order.
 
 ##Code 401: Advanced Software Development in Full-Stack JavaScript
 
@@ -47,6 +47,10 @@ This HTTP server receives GET and POST requests to '/json'.  If a POST request i
 ####tcp_server
 
 This TCP server logs any requests it gets into a uniquely named file.
+
+####Ruuter
+
+A basic framework for creating an HTTP server with routes. Easily write files and header messages upon requests.
 
 ####simple_modular_patterns_and_tests
 
