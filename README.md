@@ -10,7 +10,7 @@ My independent coding assignment, an angular image gallery which allows users to
 
 ####first-game
 
-My fork on the our final project, [Spacecataz](https://github.com/SpaceShooterProj/first-game).
+My fork on from our final project, [Spacecataz](https://github.com/SpaceShooterProj/first-game).
 
 ####client_for_rest_api
 
