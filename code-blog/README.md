@@ -1,6 +1,6 @@
-# James Mason's Course Blog
+# James Mason's Code Blog
 
-This is a course blog for Code Fellows 301: Intermediate Software Development.
+This is a code blog created during Code Fellows 301: Intermediate Software Development.
 
 You can view it here: https://jhm90.herokuapp.com/
 
